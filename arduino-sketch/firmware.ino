@@ -1,7 +1,7 @@
 /*
   Hotspot 1D
   By: Cristian Delgado
-  Commisioned by: Dr. Miguel Condes Lara
+  Commisioned by: Dr. Miguel Condes Lara, INB UNAM Juriquilla
   
   An arduino shield for measuring inflamation and pain
   
